@@ -805,7 +805,29 @@ a:hover {
 .service-box .s-description {
   color: #4e4e4e;
 }
+.php-icon svg {
+    height: 40px;
+}
+.WEB-DESIGN svg,.DEVELOPMENT svg {
+    height: 40px;
+}
+.graphics 
+ path.st0, .graphics 
+ path.st1 {
+    fill: #000;
+}
 
+.service-box:hover svg {
+    fill: #fff;
+}
+.jquery-cls svg {
+    height: 40px;
+    fill: #000;
+}
+.jquery-cls svg path {
+    height: 40px;
+    fill: #000;
+}
 /*--------------------------------------------------------------
 # Counter
 --------------------------------------------------------------*/
